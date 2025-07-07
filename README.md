@@ -31,3 +31,9 @@
 >  Coming soon 
 
 ---
+## 5. 🚀 How to Run Locally
+
+pip install -r requirements.txt
+streamlit run app.py
+
+---
