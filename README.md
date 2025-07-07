@@ -4,7 +4,7 @@
 
 ## 1.  Methodology
 
-<img src="screenshots/methodology.png" width="600"/>
+![image](https://github.com/user-attachments/assets/2634eedc-519e-4c91-9b9a-3f9c083c4f40)
 
 ---
 
