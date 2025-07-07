@@ -31,10 +31,16 @@
 >  Coming soon 
 
 ---
-## 5. 🚀 How to Run Locally
+## 5.  How to Run Locally
 
 pip install -r requirements.txt
 
 streamlit run app.py
+
+---
+## 6. Dataset used 
+
+Student Habits vs Academic Performance by - Jayanta Nath
+https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
 
 ---
